@@ -1,0 +1,2 @@
+# Fall2018-Group26-CV
+E-GOAT Blue Team CS 2018-2019
