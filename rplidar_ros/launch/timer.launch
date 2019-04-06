@@ -1,0 +1,3 @@
+<launch>
+<node pkg="timed_roslaunch" type = "timed_roslaunch.sh" args = "120 rplidar_ros view_rplidar.launch" name ="timed_roslaunch" output="screen" />
+</launch>
